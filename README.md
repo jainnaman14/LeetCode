@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
