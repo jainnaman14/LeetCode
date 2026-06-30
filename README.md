@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0002-add-two-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
 | ------- |
