@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainnaman14/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
+| [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jainnaman14/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jainnaman14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
 ## String
 |  |
