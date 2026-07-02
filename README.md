@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainnaman14/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainnaman14/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jainnaman14/LeetCode/tree/master/0263-ugly-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainnaman14/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainnaman14/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
