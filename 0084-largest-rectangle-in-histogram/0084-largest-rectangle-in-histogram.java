@@ -6,20 +6,21 @@ class Solution {
 
         for (int i = 0; i <= heights.length; i++) {
 
-            int currHeight = (i == heights.length) ? 0 : heights[i];
+            int currentHeight = (i == heights.length) ? 0 : heights[i];
 
-            while (!stack.isEmpty() && currHeight < heights[stack.peek()]) {
+            while (!stack.isEmpty() && currentHeight < heights[stack.peek()]) {
 
                 int height = heights[stack.pop()];
 
-                int width;
+                int right = i;
 
-                if (stack.isEmpty())
-                    width = i;
-                else
-                    width = i - stack.peek() - 1;
+                int left = stack.isEmpty() ? -1 : stack.peek();
 
-                maxArea = Math.max(maxArea, height * width);
+                int width = right - left - 1;
+
+                int area = height * width;
+
+                maxArea = Math.max(maxArea, area);
             }
 
             stack.push(i);
