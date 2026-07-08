@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/jainnaman14/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/jainnaman14/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jainnaman14/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/jainnaman14/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Merge Sort
 |  |
 | ------- |
