@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jainnaman14/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jainnaman14/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jainnaman14/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/jainnaman14/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/jainnaman14/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
