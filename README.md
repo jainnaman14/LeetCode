@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/jainnaman14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/jainnaman14/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/jainnaman14/LeetCode/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/jainnaman14/LeetCode/tree/master/0831-masking-personal-information) |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jainnaman14/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/jainnaman14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
