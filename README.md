@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jainnaman14/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/jainnaman14/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jainnaman14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/jainnaman14/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/jainnaman14/LeetCode/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
