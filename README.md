@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/jainnaman14/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/jainnaman14/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 ## Stack
 |  |
 | ------- |
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
