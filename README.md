@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/jainnaman14/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/jainnaman14/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -212,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/jainnaman14/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
