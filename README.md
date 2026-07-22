@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jainnaman14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jainnaman14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/jainnaman14/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainnaman14/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jainnaman14/LeetCode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/jainnaman14/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
