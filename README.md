@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/jainnaman14/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0633-sum-of-square-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/jainnaman14/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/jainnaman14/LeetCode/tree/master/0263-ugly-number) |
+| [0633-sum-of-square-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainnaman14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jainnaman14/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/jainnaman14/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
