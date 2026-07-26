@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/jainnaman14/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jainnaman14/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/jainnaman14/LeetCode/tree/master/0994-rotting-oranges) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainnaman14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/jainnaman14/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Simulation
