@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jainnaman14/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/jainnaman14/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jainnaman14/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jainnaman14/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jainnaman14/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainnaman14/LeetCode/tree/master/0001-two-sum) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jainnaman14/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/jainnaman14/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainnaman14/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/jainnaman14/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jainnaman14/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jainnaman14/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
