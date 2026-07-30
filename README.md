@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jainnaman14/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/jainnaman14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/jainnaman14/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jainnaman14/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jainnaman14/LeetCode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/jainnaman14/LeetCode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jainnaman14/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/jainnaman14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/jainnaman14/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/jainnaman14/LeetCode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/jainnaman14/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
