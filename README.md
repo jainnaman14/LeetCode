@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jainnaman14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 ## Stack
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/jainnaman14/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/jainnaman14/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/jainnaman14/LeetCode/tree/master/0831-masking-personal-information) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -276,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/jainnaman14/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
