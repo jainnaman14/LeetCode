@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jainnaman14/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/jainnaman14/LeetCode/tree/master/0831-masking-personal-information) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Quickselect
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/jainnaman14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/jainnaman14/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/jainnaman14/LeetCode/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,10 +290,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jainnaman14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jainnaman14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
 | ------- |
@@ -300,8 +304,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jainnaman14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jainnaman14/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
