@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jainnaman14/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainnaman14/LeetCode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainnaman14/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jainnaman14/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jainnaman14/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/jainnaman14/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/jainnaman14/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/jainnaman14/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jainnaman14/LeetCode/tree/master/0735-asteroid-collision) |
 ## Design
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/jainnaman14/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/jainnaman14/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainnaman14/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/jainnaman14/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0481-magical-string](https://github.com/jainnaman14/LeetCode/tree/master/0481-magical-string) |
