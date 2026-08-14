@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/jainnaman14/LeetCode/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/jainnaman14/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/jainnaman14/LeetCode/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jainnaman14/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/jainnaman14/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/jainnaman14/LeetCode/tree/master/0932-beautiful-array) |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/jainnaman14/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jainnaman14/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/jainnaman14/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/jainnaman14/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/jainnaman14/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainnaman14/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 ## Stack
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jainnaman14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/jainnaman14/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/jainnaman14/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainnaman14/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Number Theory
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
