@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jainnaman14/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/jainnaman14/LeetCode/tree/master/0200-number-of-islands) |
 | [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [2076-process-restricted-friend-requests](https://github.com/jainnaman14/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 ## Binary Search
 |  |
 | ------- |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+## Graph Theory
+|  |
+| ------- |
+| [2076-process-restricted-friend-requests](https://github.com/jainnaman14/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 <!---LeetCode Topics End-->
