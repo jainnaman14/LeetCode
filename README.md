@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1563-stone-game-v](https://github.com/jainnaman14/LeetCode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainnaman14/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/jainnaman14/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainnaman14/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainnaman14/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/jainnaman14/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Quickselect
 |  |
@@ -372,4 +374,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/jainnaman14/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
