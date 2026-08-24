@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1563-stone-game-v](https://github.com/jainnaman14/LeetCode/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jainnaman14/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jainnaman14/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/jainnaman14/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jainnaman14/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/jainnaman14/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jainnaman14/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jainnaman14/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jainnaman14/LeetCode/tree/master/0053-maximum-subarray) |
 | [1563-stone-game-v](https://github.com/jainnaman14/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/jainnaman14/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/jainnaman14/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 ## Tree
 |  |
 | ------- |
@@ -374,9 +378,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/jainnaman14/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
