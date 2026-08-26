@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/jainnaman14/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1927-sum-game](https://github.com/jainnaman14/LeetCode/tree/master/1927-sum-game) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/jainnaman14/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jainnaman14/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jainnaman14/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jainnaman14/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jainnaman14/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
 |  |
 | ------- |
