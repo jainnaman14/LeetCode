@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/jainnaman14/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainnaman14/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/jainnaman14/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/jainnaman14/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jainnaman14/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jainnaman14/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Stack
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jainnaman14/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/jainnaman14/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/jainnaman14/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
