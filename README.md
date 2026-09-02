@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/jainnaman14/LeetCode/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/jainnaman14/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/jainnaman14/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/jainnaman14/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jainnaman14/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jainnaman14/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jainnaman14/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/jainnaman14/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/jainnaman14/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainnaman14/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/jainnaman14/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Number Theory
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/jainnaman14/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/jainnaman14/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/jainnaman14/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/jainnaman14/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Directed Acyclic Graph
